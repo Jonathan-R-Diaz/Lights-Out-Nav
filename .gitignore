@@ -1,6 +1,6 @@
 /build
 /androidTest
 /test
-/main/res/draw*
+/main/res/drawable-v24
 /main/res/mipmap*
 /main/res/xml
